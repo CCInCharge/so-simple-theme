@@ -1,8 +1,7 @@
 ---
 layout: page
 title: About Me
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+modified: 2017-12-10T00:47:34-08:00
 ---
 
 Hello! I'm a Data Engineering fellow at [Insight Data Engineering](http://insightdataengineering.com/), a fellowship program - I'm currently working on developing a data pipeline for a big data project. I received my Aerodynamics Engineering Bachelors and Masters degrees from the University of Southern California (2015), and am currently working on wrapping up another Bachelors in Computer Science at Oregon State University (2018).
