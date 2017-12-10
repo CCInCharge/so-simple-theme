@@ -3,11 +3,14 @@
 - title: Resume
   url: /resume/
 
+- title: Projects
+  url: /projects/
+
+- title: Github
+  url: https://github.com/CCInCharge
+
 - title: Blog
   url: /blog/
 
 - title: Contact Me
   url: /contact/
-
-- title: Search
-  url: /search/
