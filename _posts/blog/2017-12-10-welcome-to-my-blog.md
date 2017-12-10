@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Welcome to my blog"
-excerpt: "This is the excerpt for your new post"
+excerpt: "Out of all the posts on this blog, this is one of them!"
 categories: blog
-tags: [sample-post, readability, test]
+tags: [general]
 author: charles_chen
 comments: true
 share: true
