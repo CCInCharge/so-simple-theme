@@ -14,4 +14,4 @@ modified: 2017-12-10 14:59:31 -0800
 #  creditlink: 
 ---
 
-Post your content here
+Hello! Welcome to my blog. I'll keep this updated with various musings as they come up. I'd love to share a little about what goes into the implementation of various projects and such. Stay tuned!
