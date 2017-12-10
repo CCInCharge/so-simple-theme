@@ -2,7 +2,7 @@
 
 title: Charles Chen
 locale: en_US
-description: Personal website of Charles Chen, data engineer
+description: Data Engineer
 logo: site-logo.png
 search: true
 url: http://localhost:4000
@@ -18,7 +18,6 @@ sass:
 gems:
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
 
 kramdown:
   input: GFM

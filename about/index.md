@@ -1,26 +1,13 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: About Me
 excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2014-08-08T19:44:38.564948-04:00
-image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+Hello! I'm a Data Engineering fellow at [Insight Data Engineering](http://insightdataengineering.com/), a fellowship program - I'm currently working on developing a data pipeline for a big data project. I received my Aerodynamics Engineering Bachelors and Masters degrees from the University of Southern California (2015), and am currently working on wrapping up another Bachelors in Computer Science at Oregon State University (2018).
 
-## So Simple Theme is all about:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+In addition to my current specialties in Data Engineering and Software Development, I have previously worked professionally as an Aerodynamics Engineer at Boeing (2015-2017). Additionally, I have experience with working with smaller teams during my time as an Aerodynamics Captain and Program Manager at USC's AeroDesign Team. I enjoy not only collaborating with fellow data engineers and software engineers to solve problems, but also using my unique experiences to bring a different perspective and leadership knowledge to those I'm fortunate enough to work with.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
+When I'm not committing to GitHub, you'll likely find me enjoying the many coffee shops in the San Francisco Bay Area, hiking, biking, rock climbing, or volunteering with [CAL-ESAR](http://www.cal-esar.org/), a local wilderness search and rescue team.
